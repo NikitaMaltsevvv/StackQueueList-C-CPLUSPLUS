@@ -1,2 +1,2 @@
 # StackQueue-C-CPLUSPLUS
-Implementation of Stack and Queue C/C++
+Implementation of Stack, Queue and List C/C++
